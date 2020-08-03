@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on Video Games Development.
 - 🤔 I’m looking for help with Game Engines.
 - 💬 Ask me about QA.
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: Linkedin @ https://ar.linkedin.com/in/ezequielagustind.
 - ⚡ Fun fact: I made my first game at 12 years with Klik & Play.
