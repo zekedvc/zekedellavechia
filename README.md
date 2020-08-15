@@ -1,4 +1,4 @@
-### Hi there, I'm Zeke - aka [Zeke] 👋 👋
+### Hi there, I'm Ezequiel - aka Zeke 👋 👋
 - 🔭 I’m currently working on Unity3d.
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate on Video Games Development.
