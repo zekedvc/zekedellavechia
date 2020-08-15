@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Zeke - aka [Zeke] 👋 👋
 - 🔭 I’m currently working on Unity3d.
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate on Video Games Development.
@@ -10,6 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://youtube.com/sa
+[youtube]: https://www.youtube.com/channel/UCaY3IoArpQx6L1enEwcHjuA
+[linkedin]: https://www.linkedin.com/in/ezequielagustind/
