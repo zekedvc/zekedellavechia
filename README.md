@@ -1,7 +1,7 @@
 ### Hi there, I'm Ezequiel - aka Zeke 👋 👋
-- 🔭 I’m currently as a Game Tester.
+- 🔭 I’m currently as a Game Tester/ Game Developer.
 - 🌱 I’m currently learning C# and Unity Engine.
-- 👯 I’m looking to collaborate with Gamees Development.
+- 👯 I’m looking to collaborate with Games Development.
 - 🤔 I’m looking for help with Game Engines.
 - 💬 Ask me about QA or Video Games.
 - ⚡ Fun fact: I made my first game at 12 years with Klik & Play.
