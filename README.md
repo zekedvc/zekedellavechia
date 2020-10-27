@@ -1,6 +1,7 @@
 ### Hi there, I'm Ezequiel - aka Zeke 👋 👋
-- 🔭 I’m currently working as a Game Tester/ Game Developer.
-- 🌱 I’m currently learning C# and Unity Engine.
+
+- 🔭 I’m currently working as a QA Analyst/Game Developer.
+- 🌱 I’m currently learning C# and C++ focusing mostly in Unreal and Unity.
 - 👯 I’m looking to collaborate with Games Development.
 - 🤔 I’m looking for help with Game Engines.
 - 💬 Ask me about QA or Video Games.
