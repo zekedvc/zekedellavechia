@@ -1,6 +1,6 @@
 ### Hi there, I'm Ezequiel - aka Zeke 👋 👋
 
-- 🔭 I’m currently working as a Automation / Manual QA.
+- 🔭 I’m currently working as a Automation / Manual QA and Game Tester.
 - 🌱 I’m currently learning C# and C++ focusing mostly in Unreal and Unity.
 - 👯 I’m looking to collaborate with Games Development.
 - 🤔 I’m looking for help with Game Engines.
