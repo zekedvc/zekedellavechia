@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with Games Development.
 - 🤔 I’m looking for help with Game Engines.
 - 💬 Ask me about QA automation and Frameworks.
-- ⚡ Fun fact: I made my first game at 12 years with Klik & Play.
+- ⚡ Fun fact: I made my first game at 12 years with Klik & Play...
 
 ---
 
