@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an Automation / Manual QA and Game Tester...
 - 🌱 I’m currently learning C# and C++ focusing mostly in Unreal and Unity.
-- 👯 I’m looking to collaborate with Games Development.
+- 👯 I’m looking to collaborate with Automation Frameworks and Game Dev.
 - 🤔 I’m looking for help with Game Engines.
 - 💬 Ask me about QA automation and Frameworks.
 - ⚡ Fun fact: I made my first game at 12 years with Klik & Play...
