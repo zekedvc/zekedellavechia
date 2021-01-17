@@ -1,6 +1,6 @@
 ### Hi there, I'm Ezequiel - aka Zeke 👋 👋
 
-<p align="center">:computer: <b>Automation Engineer | Video Game Developer</b> :computer:</p>
+:computer: <b>Automation Engineer | Video Game Developer</b> :computer:
 
 - 🔭 I’m currently working as an Automation / Manual QA and Game Tester...
 - 🌱 I’m currently learning Python.
