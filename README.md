@@ -3,7 +3,7 @@
 :computer: <b>Automation Engineer | Video Game Developer</b> :computer:
 
 - 🔭 I’m currently working as an Automation / Manual QA and Game Tester...
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning new program languages.
 - 👯 I’m looking to collaborate with Automation Frameworks and Game Dev.
 - 🤔 I’m looking for help with Game Engines.
 - 💬 Ask me about QA automation and Frameworks.
