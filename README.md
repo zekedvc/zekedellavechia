@@ -1,6 +1,6 @@
 ### Hi there, I'm Ezequiel aka Zeke 👋 👋
 
-:computer: <b>Automation Engineer | Video Game Developer</b> :computer:
+:computer: <b>Automation Engineer</b> :computer:
 
 ---
 
