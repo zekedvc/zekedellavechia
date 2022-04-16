@@ -1,6 +1,6 @@
-### Hi there, I'm Ezequiel aka Zeke 👋 👋
+### Hi there! 👋
 
-:computer: <b>Automation Engineer</b> :computer:
+:computer: <b>My name is Zeke and I am a senior Automation Engineer with severaly years of experience in QA.</b> :computer:
 
 ---
 
