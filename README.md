@@ -2,7 +2,6 @@
 
 :computer: <b>Automation Engineer</b> :computer:
 
-My name is Zeke, a senior automation test engineer with several years of experience in the field.
 ---
 
 ### Connect with me:
