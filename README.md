@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<b>My name is Zeke and I am a senior Automation Engineer with severaly years of experience in QA.</b>  :computer:
+<b>My name is Zeke and I am a senior Automation Engineer with many years of experience in QA.</b>  :computer:
 
 ---
 
