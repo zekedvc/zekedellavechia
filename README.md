@@ -1,7 +1,7 @@
 ### Hi there!
 
 <b>My name is Zeke and I am a senior Automation Engineer with more than 11 years of experience in QA.</b>  :computer:
-
+Currently looking for a job.
 ---
 
 ### Connect with me:
